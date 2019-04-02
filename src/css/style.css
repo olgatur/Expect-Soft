@@ -1,15 +1,4 @@
-html {
-  box-sizing: border-box;
-}
 
-*, *::after, *::before {
-  box-sizing: inherit;
-}
-
-*, *:before, *:after {
-  box-sizing: border-box;
-  outline: none;
-}
 
 html {
   font-family: 'Source Sans Pro', sans-serif;
